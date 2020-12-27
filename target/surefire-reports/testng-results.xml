@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[sample.Search_txtfound]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[sample.Search_txtfound]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched]]>
+    </line>
+    <line>
+      <![CDATA[sample.Search_txtfound]]>
+    </line>
+  </reporter-output>
+  <suite name="Testing" duration-ms="28383" started-at="2020-12-27T12:11:15 CST" finished-at="2020-12-27T12:11:43 CST">
+    <groups>
+    </groups>
+    <test name="SampleTestcase_1" duration-ms="9174" started-at="2020-12-27T12:11:15 CST" finished-at="2020-12-27T12:11:24 CST">
+      <class name="com.automation.testcase.SampleTestcase_1">
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.automation.testcase.SampleTestcase_1@6adede5]" name="setup" is-config="true" duration-ms="31" started-at="2020-12-27T12:11:15 CST" finished-at="2020-12-27T12:11:15 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@436e852b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test(org.testng.ITestContext)[pri:0, instance:com.automation.testcase.SampleTestcase_1@6adede5]" name="test" duration-ms="9091" started-at="2020-12-27T12:11:15 CST" finished-at="2020-12-27T12:11:24 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@436e852b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[sample.Search_txtfound]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcase.SampleTestcase_1@6adede5]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-12-27T12:11:24 CST" finished-at="2020-12-27T12:11:24 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.testcase.SampleTestcase_1 -->
+    </test> <!-- SampleTestcase_1 -->
+    <test name="SampleTestcase_2" duration-ms="6386" started-at="2020-12-27T12:11:24 CST" finished-at="2020-12-27T12:11:31 CST">
+      <class name="com.automation.testcase.SampleTestcase_1">
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.automation.testcase.SampleTestcase_1@2286778]" name="setup" is-config="true" duration-ms="0" started-at="2020-12-27T12:11:24 CST" finished-at="2020-12-27T12:11:24 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7dc3712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test(org.testng.ITestContext)[pri:0, instance:com.automation.testcase.SampleTestcase_1@2286778]" name="test" duration-ms="6384" started-at="2020-12-27T12:11:24 CST" finished-at="2020-12-27T12:11:31 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7dc3712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[sample.Search_txtfound]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcase.SampleTestcase_1@2286778]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-12-27T12:11:31 CST" finished-at="2020-12-27T12:11:31 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.testcase.SampleTestcase_1 -->
+    </test> <!-- SampleTestcase_2 -->
+    <test name="SampleTestcase_3" duration-ms="12484" started-at="2020-12-27T12:11:31 CST" finished-at="2020-12-27T12:11:43 CST">
+      <class name="com.automation.testcase.SampleTestcase_1">
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.automation.testcase.SampleTestcase_1@370736d9]" name="setup" is-config="true" duration-ms="1" started-at="2020-12-27T12:11:31 CST" finished-at="2020-12-27T12:11:31 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4bd31064]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test(org.testng.ITestContext)[pri:0, instance:com.automation.testcase.SampleTestcase_1@370736d9]" name="test" duration-ms="12480" started-at="2020-12-27T12:11:31 CST" finished-at="2020-12-27T12:11:43 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4bd31064]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser launched]]>
+            </line>
+            <line>
+              <![CDATA[sample.Search_txtfound]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcase.SampleTestcase_1@370736d9]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-12-27T12:11:43 CST" finished-at="2020-12-27T12:11:43 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.testcase.SampleTestcase_1 -->
+    </test> <!-- SampleTestcase_3 -->
+  </suite> <!-- Testing -->
+</testng-results>
